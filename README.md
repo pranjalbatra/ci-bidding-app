@@ -1,6 +1,6 @@
 # Bidding App - PHP (CodeIgniter + MySQL)
 
-# Steps to Set Up
+## Steps to Set Up
 
 1. Clone repository
 2. Configure base url in application/config/config.php
